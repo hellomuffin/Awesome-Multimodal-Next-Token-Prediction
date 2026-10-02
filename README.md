@@ -73,6 +73,8 @@ Building on the foundations of language modeling in natural language processing,
 
 | **Paper** | **Time** | **Modality** | **Tokenization Type** | **GitHub** |
 |-----------|----------|--------------|-----------------------|-------------|
+| [TrajTok: Learning Trajectory Tokens enables better Video Understanding](https://arxiv.org/abs/2602.22779) | 2026 | Video | Discrete | - |
+| [One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory](https://arxiv.org/abs/2505.23617) | 2025 | Video | Discrete | - |
 | [OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation](https://arxiv.org/abs/2406.09399) | 2024 | Image,Video | Discrete & Continuous       | [![Star](https://img.shields.io/github/stars/FoundationVision/OmniTokenizer.svg?style=social&label=Star)](https://github.com/FoundationVision/OmniTokenizer) |
 | [TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/abs/2412.03069) | 2024 | Image | Discrete              | [![Star](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow.svg?style=social&label=Star)](https://github.com/ByteFlow-AI/TokenFlow) |
 | [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution (QwenVL2-ViT)](https://arxiv.org/abs/2409.12191) | 2024 | Image,Video | Continuous            | [![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen2-VL) |
